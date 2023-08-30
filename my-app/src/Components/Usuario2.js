@@ -117,9 +117,6 @@ export default function UsuarioNuevo () {
               <Button variant="primary" className='col-3' type="submit">
                 Guardar
               </Button>
-              <Button variant="danger" className='col-3' type="submit">
-                Borrar
-              </Button>
             </div>
           </Form>
       }
